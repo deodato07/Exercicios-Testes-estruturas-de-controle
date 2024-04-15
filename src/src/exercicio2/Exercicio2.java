@@ -50,7 +50,7 @@ public class Exercicio2 {
         System.out.println("a maior altura do grupo é " + maior + "m, e a menor é de" + menor +"m");
         System.out.println("a media de altura dos homens é de " + mediaHomens +"m, " );
         System.out.println("O nomero de mulheres é " + qtdMulher);
-        
+
         entrada.close();
     }
 }
